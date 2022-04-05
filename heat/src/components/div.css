@@ -1,11 +1,8 @@
-*{
-	justify-content: center;
-}
+
 .hello{
 	background: linear-gradient(35deg,#030303,#3d3d4e);
 	color: white;
 	width: 400px;
-	margin-left: 47rem;
 	margin-top: 200px;
 	border-radius: 15px;
 	box-shadow: 0px 12px 16px -8px rgba(3,3,3,0.25), 0 -8px 12px 12px rgba(61,61,78,0.3);
