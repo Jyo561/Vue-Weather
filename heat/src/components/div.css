@@ -1,3 +1,6 @@
+*{
+	justify-content: center;
+}
 .hello{
 	background: linear-gradient(35deg,#030303,#3d3d4e);
 	color: white;
