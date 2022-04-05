@@ -51,14 +51,14 @@
 
     <div class="image" v-if="weather.weather[0].main=='Storm'">
       <img src="../assets/118967_weather_storm_icon.svg" alt="" class="img"><br>
-      <label>Strong Rain</label>
+      <label>Storm</label>
     </div><div class="image" v-if="weather.main=='Windy'">
       <img src="../assets/118967_weather_storm_icon.svg" alt="" class="img"><br>
-      <label>Strong Rain</label>
+      <label>Windy</label>
     </div>
     <div class="image" v-if="weather.main=='Hail'">
       <img src="../assets/118967_weather_storm_icon.svg" alt="" class="img"><br>
-      <label>Strong Rain</label>
+      <label>Hail</label>
     </div>
 
     <div class="info">
