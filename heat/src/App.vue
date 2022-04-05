@@ -17,5 +17,8 @@ export default {
 body{
   background-color: #1e1e1e; 
   opacity:80.0%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 </style>
